@@ -37,6 +37,11 @@
 
 > The level of questions asked on the topic of Data Structures And Algorithms totally depends on the company for which you are applying.
 
+* Binary search https://www.baeldung.com/java-binary-search
+* Big O https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation
+* Complexity of algorithms https://www.youtube.com/watch?v=ewd7Lf2dr5Q
+* Introduction to algorithms course https://classroom.udacity.com/courses/cs215
+
 * Array
     - An Array consists of a group of elements of the same data type. It is stored contiguously in memory and by using its' index, you can find the underlying data. Arrays can be one dimensional and multi-dimensional. One dimensional array is the simplest data structure, and also most commonly used. It is worth noting that in Java language multi-dimensional arrays are implemented as arrays of arrays. For example, `int[10][5]` is actually one array with its' cells pointing to ten 5-element arrays.    
 
