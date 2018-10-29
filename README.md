@@ -34,6 +34,11 @@
 
 
 ### Data Structures And Algorithms
+* Sun/Oracle tutorials on Collections API https://docs.oracle.com/javase/tutorial/collections/
+* ArrayList https://habr.com/post/128269/
+* LinkedList https://habr.com/post/127864/
+* HashMap https://habr.com/post/128017/
+* LinkedHashMap https://habr.com/post/129037/
 
 > The level of questions asked on the topic of Data Structures And Algorithms totally depends on the company for which you are applying.
 
